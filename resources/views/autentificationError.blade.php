@@ -1,0 +1,1 @@
+<h1>Error de auntetificación, rol equivocado, eres: {{auth()->user()->rol}}</h1>
